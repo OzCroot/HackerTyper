@@ -1,3 +1,4 @@
 $(document).ready(function(){
-	console.log("test");
+	var HT = HackerTyper.getInstance();
+	HT.publicMethod();
 });
