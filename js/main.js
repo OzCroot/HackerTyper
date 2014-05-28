@@ -1,4 +1,3 @@
 $(document).ready(function(){
-	var HT = HackerTyper.getInstance();
-	HT.publicMethod();
+	HT.fetchCodeText("data/code.txt", HT);
 });

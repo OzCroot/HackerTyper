@@ -107,10 +107,14 @@ textarea {
 	width: 100%;
 	height: 100%;
 	background: #000;
+	overflow: hidden;
 }
 
 #code {
-	white-space: pre-wrap;
+	position: relative;
+	width: 100%;
+	padding: 1em 1em 0;
+	box-sizing: border-box;
 }
 
 #carat {

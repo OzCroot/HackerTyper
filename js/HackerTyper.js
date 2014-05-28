@@ -1,33 +1,26 @@
-var HackerTyper = (function(){
-	var instance;
+var HT = (function(){
+	var module = {},
+		_private = {};
 
-	var init = function() {
-		// Private methods and variables
-		var loading = false;
-		var privateMethod = function(){
-			console.log("I am private");
-		}
-		var privateVariable = "Im also private";
-		var privateRandomNumber = Math.random();
+	/*
+	* Private interface
+	* */
 
-		// Public methods and variables
-		return {
-			publicMethod: function () {
-				console.log( "The public can see me!" );
-			},
-			publicProperty: "I am also public",
-			getRandomNumber: function() {
-				return privateRandomNumber;
-			}
-		};
+	_private.codeText = "";
+	_private.stringCharacterIndex = 0;
+
+
+	/*
+	* Public interface
+	* */
+
+	// Pull in the text file and execute a designated callback.
+	module.fetchCodeText = function(url, callback){
+		return $.get(url, function(result){
+			_private.codeText = result;
+			if ($.isFunction(callback)) callback();
+		});
 	};
-	
-	return {
-		getInstance: function () {
-			if (!instance) {
-				instance = init();
-			}
-			return instance;
-		}
-	};
+
+ 	return module;
 })();
