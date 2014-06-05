@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4c4a56a-2c45-40a8-afd9-9651f5d6cfce" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/images/browsers/chrome-canary.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/images/browsers/chrome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/social/facebook-share.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/social/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/images/browsers/firefox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/images/skin-default/layout/header/header-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/images/browsers/opera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/images/browsers/safari.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/social/twitter-share.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/alertify/alertify-core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/alertify/alertify-skin.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/partials/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/partials/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/fonts/droid-sans.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/structure/footer.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/partials/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/structure/global-elements.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/partials/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/structure/header.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/pages/home.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Scripts/vendor/jquery/jquery.superfish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Scripts/vendor/jquery/jquery.superfish.megamenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/structure/layout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Scripts/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/structure/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/helpers/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/fonts/national-book.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/fonts/national-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/structure/nav.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/render/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/fonts/opensans-light-italic.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/fonts/opensans-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/fonts/opensans-regular.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/fonts/opensans-semibold.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/render/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/fonts/quicksand-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/helpers/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/partials/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/skin-default.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/partials/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/partials/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/partials/unsupported-browsers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/helpers/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/helpers/variables-layout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/helpers/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Content/less/skin-default/vendor/bootstrap/wells.less" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\404.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\apple-touch-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\crossdomain.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\css\normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\doc\TOC.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\doc\crossdomain.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\doc\css.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\doc\extend.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\doc\faq.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\doc\html.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\doc\js.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\doc\misc.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\doc\usage.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\humans.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\img\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\js\HackerTyper.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Dev\personal\HackerTyper\robots.txt" afterPath="" />
+      <change type="MOVED" beforePath="C:\Dev\personal\HackerTyper\js\plugins.js" afterPath="$PROJECT_DIR$/Scripts/plugins/plugins.js" />
+      <change type="MOVED" beforePath="C:\Dev\personal\HackerTyper\js\vendor\jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/Scripts/vendor/jquery/jquery-1.10.2.min.js" />
+      <change type="MOVED" beforePath="C:\Dev\personal\HackerTyper\js\vendor\modernizr-2.6.2.min.js" afterPath="$PROJECT_DIR$/Scripts/vendor/modernizr-2.6.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="HackerTyper.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HackerTyper" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Changed Files" color="Green" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.033333" vertical-offset="617" max-vertical-offset="1596">
+              <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+              <folding>
+                <marker date="1401946817227" expanded="true" signature="1615:2235" placeholder="..." />
+                <marker date="1401946817227" expanded="true" signature="1651:2227" placeholder="..." />
+                <marker date="1401946817227" expanded="true" signature="1935:2218" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ht.type.service.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scripts/services/ht.type.service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1029">
+              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skin-default.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Content/less/skin-default/skin-default.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.0" vertical-offset="0" max-vertical-offset="1869">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Content/less/skin-default/structure/main.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4" vertical-offset="0" max-vertical-offset="168">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Content/less/skin-default/helpers/variables.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.4" vertical-offset="378" max-vertical-offset="17535">
+              <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.less" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Content/less/skin-default/structure/layout.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.046255507" vertical-offset="0" max-vertical-offset="1113">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables-layout.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Content/less/skin-default/helpers/variables-layout.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.2" vertical-offset="0" max-vertical-offset="819">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scripts/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Scripts/services/ht.type.service.js" />
+        <option value="$PROJECT_DIR$/Content/less/skin-default/skin-default.less" />
+        <option value="$PROJECT_DIR$/Content/less/skin-default/structure/header.less" />
+        <option value="$PROJECT_DIR$/Content/less/skin-default/helpers/variables-layout.less" />
+        <option value="$PROJECT_DIR$/Content/less/skin-default/helpers/variables.less" />
+        <option value="$PROJECT_DIR$/Scripts/main.js" />
+        <option value="$PROJECT_DIR$/Content/less/skin-default/structure/main.less" />
+        <option value="$PROJECT_DIR$/Content/less/skin-default/structure/layout.less" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path>C:\Users\ozren.srzich\AppData\Roaming\npm\bower.cmd</exe-path>
+    <config-path />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>File Watchers</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>TaskInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerTyper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin-default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="fileColors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\personal\HackerTyper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4c4a56a-2c45-40a8-afd9-9651f5d6cfce" name="Default" comment="" />
+      <created>1401940667884</created>
+      <updated>1401940667884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="HackerTyper" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="HackerTyper" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Content/less/skin-default/fonts/droid-sans.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/less/skin-default/fonts/droid-sans.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09251101" vertical-offset="0" max-vertical-offset="908">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/less/skin-default/structure/header.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023127753" vertical-offset="0" max-vertical-offset="908">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.033333" vertical-offset="617" max-vertical-offset="1596">
+          <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+          <folding>
+            <marker date="1401946817227" expanded="true" signature="1615:2235" placeholder="..." />
+            <marker date="1401946817227" expanded="true" signature="1651:2227" placeholder="..." />
+            <marker date="1401946817227" expanded="true" signature="1935:2218" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/services/ht.type.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1029">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/less/skin-default/helpers/variables-layout.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.2" vertical-offset="0" max-vertical-offset="819">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/less/skin-default/skin-default.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.0" vertical-offset="0" max-vertical-offset="1869">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/less/skin-default/structure/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4" vertical-offset="0" max-vertical-offset="168">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/less/skin-default/helpers/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.4" vertical-offset="378" max-vertical-offset="17535">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/less/skin-default/structure/layout.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.046255507" vertical-offset="0" max-vertical-offset="1113">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

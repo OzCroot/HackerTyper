@@ -1,0 +1,48 @@
+// Body reset
+html {
+	font-size: 62.5%;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+body {
+	font-family: @font-family-base;
+	font-size: @font-size-base;
+	line-height: @line-height-base;
+	color: @text-color;
+	background-color: @grey-dark;
+	overflow: hidden;
+}
+
+#wrapper {
+	display: block;
+	position: relative;
+	width: @wrapper-width;
+	margin: 0 auto;
+}
+
+// Displays a content block;
+.content {
+	display: block;
+	position: relative;
+	width: @content-width;
+	padding-left: @content-gutter-left;
+	padding-right: @content-gutter-right;
+	.box-sizing();
+	margin: 0 auto;
+
+	// Stretches 100% width of container and pads internally.
+	&.content-full {
+		width: 100%;
+		margin: 0;
+		padding-left: @content-full-gutter-left;
+		padding-right: @content-full-gutter-right;
+	}
+
+	// No padding on either side. Only contains content.
+	&.content-nopad {
+		width: @content-width - @content-gutter-left - @content-gutter-right;
+		padding: 0;
+		margin-left: @content-full-gutter-left;
+		margin-right: @content-full-gutter-right;
+	}
+}

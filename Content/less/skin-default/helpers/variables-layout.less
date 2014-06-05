@@ -1,0 +1,34 @@
+// Determine the size of layout elements.
+// Use this stylesheet to adjust the height of structure of the site easily. Remember to use calculations for sites that rely
+// on 'block' style elements, e.g. @block1: 100px; @block2: @block1 * 2;
+
+@wrapper-width: 80%;
+@wrapper-bg: @white;
+
+// Leaves 1225px 'useable' content.
+@content-width: 1315px;
+@content-gutter-left: 60px;
+@content-gutter-right: 30px;
+@content-full-gutter-left: (@wrapper-width - @content-width) / 2 + @content-gutter-left;
+@content-full-gutter-right: (@wrapper-width - @content-width) / 2 + @content-gutter-right;
+
+// Header styles
+@header-height: 610px;
+@header-bg: none;
+
+@carousel-width: @content-width - @content-gutter-left - @content-gutter-right;
+@carousel-height: 315px;
+
+// Nav styles
+@navmenu-height: 75px;
+@navmenu-bg: @grey;
+@navmenu-link: @white;
+@navmenu-link-bg: @navmenu-bg;
+@navmenu-link-hover: @white;
+@navmenu-link-higlight1: @grey-light;
+@navmenu-link-higlight2: @grey-lighter;
+@navmenu-font-size: @font-size-h4;
+
+// Main content styles.
+@main-height: 500px;
+@main-bg: none;

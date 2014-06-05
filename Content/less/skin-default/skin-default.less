@@ -1,0 +1,83 @@
+// Define skin name for image pathing purposes. To be used in conjunction with mixin .get-skin-image();
+@skin-name: 'skin-default';
+
+// Modules.
+// Set up a project by starting with the variables file, define all colours needed and create new variables as necessary.
+// As a rule of thumb all LESS files in the 'modules' directory should *NOT* contain physical page elements - use this for helper methods and styles.
+@import "helpers/variables.less";				// Boostrap/colour variables.
+@import "helpers/variables-layout.less";		// Dimensions/etc for page layouts.
+@import "helpers/mixins.less";
+@import "helpers/utilities.less";
+@import "helpers/responsive-utilities.less";
+
+// Reset.
+// Return CSS to a default start point.
+@import "render/normalize.less";
+@import "render/print.less";
+
+// Fonts.
+// Import 'font-solution' files which have a complete breakdown of all the required fontsizes. Included fonts are imported into the project
+// and are available in project scope.
+	//@import "fonts/droid-sans.less";
+	//@import "fonts/opensans-light.less";
+
+// Structure.
+// Define the page layout here, note this is only for the main content holders and global element setup not individual elements.
+// Individual elements are defined in the 'partials' directory.
+@import "structure/layout.less";
+@import "structure/global-elements.less";
+@import "structure/nav.less";
+@import "structure/header.less";
+@import "structure/main.less";
+@import "structure/footer.less";
+
+// Partials.
+// The files declared here relate to a single reusable page element/widget.
+// If elements are not reuseable or extendable then they are page specific and should be in the 'pages' section.
+@import "partials/scaffolding.less";
+@import "partials/type.less";
+@import "partials/code.less";
+@import "partials/grid.less";
+@import "partials/tables.less";
+@import "partials/forms.less";
+@import "partials/buttons.less";
+@import "partials/unsupported-browsers.less";
+
+// Pages.
+// Individual pages are made up of unique elements. It may be difficult to determine if some items are partials or pages,
+// if in doubt speak to the designers and ask for clarification.
+@import "pages/home.less";
+
+// Vendor.
+// The files here belong to third party librarys. You may need to convert the CSS into a LESS file so we can import it here as we don't want
+// to manage CSS in the browser, only here!
+// Bootstrap components.
+@import "vendor/bootstrap/component-animations.less";
+@import "vendor/bootstrap/glyphicons.less";
+@import "vendor/bootstrap/dropdowns.less";
+@import "vendor/bootstrap/button-groups.less";
+@import "vendor/bootstrap/input-groups.less";
+@import "vendor/bootstrap/navs.less";
+@import "vendor/bootstrap/navbar.less";
+@import "vendor/bootstrap/breadcrumbs.less";
+@import "vendor/bootstrap/pagination.less";
+@import "vendor/bootstrap/pager.less";
+@import "vendor/bootstrap/labels.less";
+@import "vendor/bootstrap/badges.less";
+@import "vendor/bootstrap/jumbotron.less";
+@import "vendor/bootstrap/thumbnails.less";
+@import "vendor/bootstrap/alerts.less";
+@import "vendor/bootstrap/progress-bars.less";
+@import "vendor/bootstrap/media.less";
+@import "vendor/bootstrap/list-group.less";
+@import "vendor/bootstrap/panels.less";
+@import "vendor/bootstrap/wells.less";
+@import "vendor/bootstrap/close.less";
+// Bootstrap JavaScript components
+@import "vendor/bootstrap/modals.less";
+@import "vendor/bootstrap/tooltip.less";
+@import "vendor/bootstrap/popovers.less";
+@import "vendor/bootstrap/carousel.less";
+// Alertify.
+@import "vendor/alertify/alertify-core.less";
+@import "vendor/alertify/alertify-skin.less";
